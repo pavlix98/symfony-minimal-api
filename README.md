@@ -1,0 +1,1 @@
+# symfony-minimal-api
